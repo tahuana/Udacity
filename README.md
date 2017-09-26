@@ -1,6 +1,6 @@
 # Udacity courses
 
-The purpose of this repository is to keep the exercises from Udacity website, during my process of continuous learning and practice coding.
+The purpose of this repository is to keep the exercises from Udacity website, during my process of continuous learning and practicing coding.
 
 ## Courses:
 
